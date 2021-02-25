@@ -39,8 +39,8 @@ ul{
   width:250px;
   background:#e8491d;
   border:0;
-  padding-left: 20px;
-  padding-right:20px;
+  padding-left: 10px;
+  padding-right:10px;
   color:#ffffff;
   margin-left:-10px;
   margin-top:-1px;
